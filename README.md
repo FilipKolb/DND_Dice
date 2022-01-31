@@ -1,2 +1,2 @@
 # DND_Dice
-executable file for rolling DND dice 
+Executable file for rolling DND dice with multiplier
